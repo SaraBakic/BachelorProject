@@ -190,3 +190,4 @@ print("EVERY DIFFERENCE AND ADDITIONAL INFORMATION IN BASECALLED FAST5 FILES:"+"
 #lets print out every difference and additional informaton
 for i in range(len(list)):
     print(list[i]+"\n")
+#I have printed the differences in a txt file
