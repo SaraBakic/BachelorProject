@@ -1,0 +1,13 @@
+The first task of Phase1 is divided into 4 smaller tasks.
+
+1)
+First task was to modify the "reads.fasta" file and the the answer to this task is "modifyFasta.py" script.
+
+2)
+Coverage task is solved in "coverage.py" file.
+
+3)
+In the third task we had to create two new fasta files and compare them. The two fasta files are "A.fasta" and "B.fasta". The python script used to solve this task is "createAB.py".
+
+4)
+Last task is just some statistics and that is covered in "statistics.py".
