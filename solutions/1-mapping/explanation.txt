@@ -1,0 +1,10 @@
+This is the second task of Phase 1.
+
+Firstly, I have used the minimap2 tool to get a .sam alignment file.
+
+In this repository are two files, one is a python script and its purpose is to parse the .sam file and get the wanted data.
+The second one is just the outuput of the results.
+
+
+
+
