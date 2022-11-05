@@ -1,0 +1,8 @@
+In this part of Phase1 I had to complete 3 different tasks regarding FAST5 files.
+
+Python script for the first task is located in "parseRawSignals.py" and the png plots are all located in folder "pngs".
+
+Answer to the second task is in "parseBasecalledSignals.py" where I parsed the basecalled signals and noticed some additional info that I printed.
+
+In the third task I had to compare guppy basecalled signals with already basecalled signals and find the differences. All regarding this task is located in "guppy_basecalled_compare" folder. Guppy basecaller had created two .fastq files, a .log file, a "sequencing_summary.txt" file and a "sequencing_telemetry.js" file. The last two files left in the folder are "compareGuppy.py" and "diff.txt" and those are my work. In "compareGuppy.py" I compare the sequences in the two different types of basecalled signals and in "diff.txt" are the outputed differences.
+
