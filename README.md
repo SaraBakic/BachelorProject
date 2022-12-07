@@ -33,3 +33,7 @@ Current approaches are based on two sequencing technologies, WGBS (Whole Genome 
  
  
 After reading the given literature, write a short summary of what you've read, shortly list what you've learned and note down the questions you have after reading these papers. Upload a pdf with the summaries to the repository.
+
+## Phase 3
+
+The third, and final phase of this project will be oriented towards practical use of existing tools and analysis of methylation calling results for a variety of tools. The instructions are in "Bachelor_project_-\_implementation_task.pdf". The instructions will be updated throughout the semester with new tasks. The initial task is focusing on NGS data and WGBS methylation calling pipeline.
