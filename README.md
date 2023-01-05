@@ -37,3 +37,6 @@ After reading the given literature, write a short summary of what you've read, s
 ## Phase 3
 
 The third, and final phase of this project will be oriented towards practical use of existing tools and analysis of methylation calling results for a variety of tools. The instructions are in "Bachelor_project_-\_implementation_task.pdf". The instructions will be updated throughout the semester with new tasks. The initial task is focusing on NGS data and WGBS methylation calling pipeline.
+
+The second task focuses on the ONT methylation calling tools. The description of the tools you should test are in 
+"Phase_2_-\_ONT_methylation_calling_pipeline.pdf".
